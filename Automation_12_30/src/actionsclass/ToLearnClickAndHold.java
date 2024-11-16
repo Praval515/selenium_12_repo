@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 public class ToLearnClickAndHold {
-             //changes done by GitHub
+             //changes done by GitHub  
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver= new ChromeDriver();
 		driver.manage().window().maximize();
